@@ -15,7 +15,7 @@
 
 ⚙ I am a pianist and photographer and I have learned to code to do my work faster.
 
-🐱‍👤 I use finger to play piano and code.
+🐱‍👤 I use my fingers to play piano and code.
 
 ## Stuff I know 🤓
 
