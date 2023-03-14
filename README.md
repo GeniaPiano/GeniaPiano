@@ -13,7 +13,7 @@
 
 ## Funfacts about me
 
-⚙ I am a pianist and photographer and I learned to code to do my work faster.
+⚙ I am a pianist and photographer and I have learned to code to do my work faster.
 
 🐱‍👤 I use finger to play piano and code.
 
