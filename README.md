@@ -11,19 +11,16 @@
 
 📧 How to reach me [Click here](https://github.com/GeniaPiano)
 
-## Funfacts about me
+## About me
 
-⚙ I am a pianist and photographer and I have learned to code to do my work faster.
+⚙ I am a pianist and photographer and I learn coding.
 
 🐱‍👤 I use my fingers to play piano and code.
 
 ## Stuff I know 🤓
 
-![My Skills](https://skillicons.dev/icons?i=git,github,nodejs,expressjs,mysql,jest,css,sass,bootstrap,react)
+![My Skills](https://skillicons.dev/icons?i=git,github,nodejs,expressjs,mysql,css,sass,react)
 
-## Want to learn 🧠
-
-![My Skills](https://skillicons.dev/icons?i=angular,typescript,firebase)
 
 ## Some stats
 
