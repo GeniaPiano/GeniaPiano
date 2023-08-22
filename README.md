@@ -17,9 +17,6 @@
 
 🐱‍👤 I use my fingers to play piano and code.
 
-## Stuff I know 🤓
-
-![My Skills](https://skillicons.dev/icons?i=git,github,nodejs,expressjs,mysql,css,sass,react)
 
 
 ## Some stats
