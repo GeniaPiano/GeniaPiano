@@ -6,11 +6,9 @@
 
 ## Important links
 
-🔭 I’m currently working on [School-App-New](https://github.com/GeniaPiano/school-app-new)  and you can find live preview of this project [here:](https://menager.networkmanager.pl/)
+💻 I’m currently working on [School-App-New](https://github.com/GeniaPiano/school-app-new)  and you can see live preview of this project [HERE](https://menager.networkmanager.pl/)
 
-💻 All of my projects are available in [my portfolio](https://github.com/GeniaPiano)
-
-
+🔭 At the moment I am looking for an oportunity to improve my programming skills on intership.
 
 
 ## About me
