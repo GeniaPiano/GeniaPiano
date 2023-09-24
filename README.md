@@ -6,10 +6,10 @@
 
 ## Important links
 
-
+🔭 king I’m currently working on [School-App-New](https://github.com/GeniaPiano/school-app-new)
 💻 All of my projects are available in [my portfolio](https://github.com/GeniaPiano)
 
-📧 How to reach me [Click here](https://github.com/GeniaPiano)
+
 
 ## About me
 
