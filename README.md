@@ -10,13 +10,15 @@
 
 ## About me
 
-🔭 At the moment I am open to a career change and I am actively seeking opportunities for an internship as a junior developer or a position as a junior software engineer. 
+I am open to a career change and actively seeking opportunities for an internship as a junior developer or a position as a junior developer.
+Despite my arts background, particularly in music and stage performance as a pianist, I have a rapid learning aptitude that excels in technical roles. 
+My experience as a musician and performer has nurtured my abstract and creative thinking, proving in problem-solving and coding.
+In just one year of intensive learning, I have learnt how to use several programming technologies and completed a full-stack project.
 
-I possess a rapid learning aptitude, which has allowed me to excel in technical roles despite my background in the arts.
-
-In my current role, I have proactively implemented process automation to streamline operations, resulting in increased efficiency and productivity
+In my current role, I have implemented process automation to streamline some activities, in order to speed up working process.
 
 
+## Fun facts 
 ⚙ I am a pianist and photographer and I learn coding.
 🐱‍👤 I use my fingers to play piano and code.
 
