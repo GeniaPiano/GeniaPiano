@@ -10,14 +10,9 @@
 
 ## About me
 
-I am actively seeking a junior developer position or an internship with potential for further collaboration.
-
-Despite my arts background, particularly in music and stage performance as a pianist, I have a rapid learning aptitude that excels in technical roles. 
 My experience as a musician and performer has nurtured my abstract and creative thinking, proving in problem-solving and coding.
 In just one year of intensive learning, I have learnt how to use several programming technologies and completed a full-stack project.
-
 In my current role, I have implemented process automation to streamline some activities, in order to speed up working process.
-
 
 ## Fun facts 
 ⚙ I am a pianist and photographer and I learn coding.
