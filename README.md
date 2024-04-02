@@ -3,20 +3,19 @@
 
 
 
-
-## Important links
-
-💻 I’m currently working on [School-App-New](https://github.com/GeniaPiano/school-app-new)  and you can see live preview of this project [HERE](https://menager.networkmanager.pl/)
-
 ## About me
 
-My experience as a musician and performer has nurtured my abstract and creative thinking, proving in problem-solving and coding.
+I presently work as a Frontend Developer at Feed Octopus (feedoctopus.com), actively contributing to the development and maintenance of applications based on React.
+In my previos role, I have implemented process automation to streamline some activities, in order to speed up working process.
+
 In just one year of intensive learning, I have learnt how to use several programming technologies and completed a full-stack project.
-In my current role, I have implemented process automation to streamline some activities, in order to speed up working process.
 
 ## Fun facts 
-⚙ I am a pianist and photographer and I learn coding.
+⚙ I am a pianist and photographer and developer.
 🐱‍👤 I use my fingers to play piano and code.
+
+## Hobby
+I love arranging/composing music and tinkering with Raspberry Pi, writing Python programs to control various devices.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
