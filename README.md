@@ -8,8 +8,6 @@
 I presently work as a Frontend Developer at Feed Octopus (feedoctopus.com), actively contributing to the development and maintenance of applications based on React.
 In my previos role, I have implemented process automation to streamline some activities, in order to speed up working process.
 
-In just one year of intensive learning, I have learnt how to use several programming technologies and completed a full-stack project.
-
 ## Fun facts 
 ⚙ I am a pianist and photographer and developer.
 🐱‍👤 I use my fingers to play piano and code.
