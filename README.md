@@ -12,8 +12,6 @@ In my previos role, I have implemented process automation to streamline some act
 ⚙ I am a pianist and photographer and developer.
 🐱‍👤 I use my fingers to play piano and code.
 
-## Hobby
-I love arranging/composing music and tinkering with Raspberry Pi, writing Python programs to control various devices.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
